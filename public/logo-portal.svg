@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="80" viewBox="0 0 380 80" fill="none">
+  <rect x="4" y="6" width="68" height="68" rx="20" fill="#169C6C"/>
+  <path d="M38 20L20.5 34.5V55C20.5 56.933 22.067 58.5 24 58.5H33V45C33 43.6193 34.1193 42.5 35.5 42.5H40.5C41.8807 42.5 43 43.6193 43 45V58.5H52C53.933 58.5 55.5 56.933 55.5 55V34.5L38 20Z" fill="#F4FBF8"/>
+  <text x="86" y="37" fill="#11231D" font-family="Plus Jakarta Sans, Inter, system-ui, sans-serif" font-size="22" font-weight="800">Portal Layanan</text>
+  <text x="86" y="61" fill="#169C6C" font-family="Plus Jakarta Sans, Inter, system-ui, sans-serif" font-size="18" font-weight="700">Digital Warga</text>
+</svg>
